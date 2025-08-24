@@ -1,5 +1,4 @@
 🧑‍💻**A𝗯𝗼𝘂𝘁 𝗺𝗲**
-
 I’m Julian Mark L. Ecal, a 2nd year BSIT Student from Laguna State Polytechnic University - Santa Cruz Main Campus. Beginner Developer with little experience of Web Development. My eagerness to learn and improve as a developer is my biggest asset.
 
 🎯**G𝗼𝗮𝗹𝘀**
