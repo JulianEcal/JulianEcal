@@ -12,6 +12,9 @@ To expand my knowledge in both back-end and front-end development and explore ne
 * C# (Beginner)
 * Python (Beginner)
 
+📌**Current Project**
+* Learning C# and Python for different types of applications
+
 📫**Contact**
-* julianlandasan@gmail.com
-* 09662868756
+* ✉️julianlandasan@gmail.com
+* 📞09662868756
